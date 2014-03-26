@@ -1,7 +1,12 @@
 language: php
 php:
-  - 5.5
+- 5.5
 script:
-  - echo "hello"
+- echo "hello"
 notifications:
-  irc: "irc.freenode.net#yusukezzz"
+  irc:
+    nick: yusukezzz
+    channels:
+      - ircs://takopa.irc.slack.com#notification
+    password:
+      secure: Q1qdb1feL8f3fJ7gDWUNXNetYgZZRSWnd9ty1SLbEbgZEdZ4WrnyOpcQOyltKpQGKaWk6bxp3laMnSgUQxUNmHL/va1F5yvlWAkr9KTN4jOXDC3lW5txRJ3NlJs8cX9cEGaCiRfUydmeMXlECDwMfB/R+kt2yXcNBJ2iQ0Y8FvQ=
