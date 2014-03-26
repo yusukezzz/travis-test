@@ -8,4 +8,5 @@ notifications:
     nick: yusukezzz
     channels:
       - ircs://yusukezzz.net#notification
-    password: yusukezzz
+    password:
+      - secure: Nf9O5LJ0fe0VMspHuWqlW8uw4bY00jWMh8+Ve5WwYKQLZp2s6ZKiK4IaMIpFHNFQx/SH1Lk2bkaBSB0KmqoL+s3SoPIjpjnXbgVeXDxuth323i5D+mZUZ+K4ApoGzeZhm7e++y3H3oHZJy8SHU+scXLOII1kjNP9QpmnYrx8onY=
